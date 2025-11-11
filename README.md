@@ -6,15 +6,15 @@
 ### Sobre mim:
 
 
-<p>Estudante de TI e buscando o aprendizado e aperfeiçoamento na área.</p>
+<p>Estudante de TI e buscando o aprendizado e aperfeiçoamento contínuo na área.</p>
 
 ### Tecnologias:
 
-* __*Python*__:
-* __*HTML*__
-* __*CSS*__
-* __*Java Script*__
-* __*SQL*__
+* __*SQL*__:
+* __*Java*__
+* __*AWS*__
+* __*Linux*__
+* __*Python*__
 
 
 
