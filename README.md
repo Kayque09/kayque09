@@ -10,7 +10,7 @@
 
 ### Tecnologias:
 
-* __*SQL*__:
+* __*SQL*__
 * __*Java*__
 * __*AWS*__
 * __*Linux*__
